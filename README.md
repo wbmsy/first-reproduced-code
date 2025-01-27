@@ -1,8 +1,8 @@
-# first-reproducing-code
+# first-reproduced-code
 
 ### 公開サイト(Published site)
 
-https://first-reproducing-code.vercel.app/
+https://first-reproduced-code.vercel.app/
 
 ### 参考(References)
 
