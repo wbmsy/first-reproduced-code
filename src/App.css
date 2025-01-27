@@ -208,6 +208,11 @@ Phone -------------------------------------
     margin: 0;
   }
 
+  .about-caption {
+    width: 90%;
+    text-align: left;
+  }
+
   /* Bicycle -------------------------------------*/
   .bicycle {
     width: 100%;
