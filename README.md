@@ -1,8 +1,8 @@
-# first-copying-code
+# first-reproductioning-code
 
 ### 公開サイト
 
-https://first-copying-code.vercel.app/
+https://first-reproductioning-code.vercel.app/
 
 ### 参考
 
